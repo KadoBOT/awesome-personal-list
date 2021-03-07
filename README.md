@@ -8,4 +8,4 @@ A list of interesting things that I've found so I know where to find them later
 ## DSA
 - [E-Maxx Algorithms](http://cp-algorithms.com/)
 - [Comprehensive list](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3)
-- [Codechef DSA Learning](https://www.codechef.com/LEARNDSA)
+- [CodeChef DSA Learning Series](https://www.codechef.com/LEARNDSA)
